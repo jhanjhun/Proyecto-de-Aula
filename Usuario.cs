@@ -19,7 +19,7 @@ public class Usuario
 
         public bool IniciarSesion(string usuario, string contrasena)
         {
-            // Lógica simple de inicio de sesión (dummy)
+           
             return Nombre == usuario;
         }
     }
